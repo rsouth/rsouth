@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="middle" float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rsouth&theme=blue-green&count_private=true&show_icons=true&hide=contribs" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsouth&theme=blue-green&count_private=true&show_icons=true&layout=compact" />
+</p>
 
 <!--
 **rsouth/rsouth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

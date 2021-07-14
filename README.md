@@ -1,6 +1,6 @@
 <p align="middle" float="left">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rsouth&theme=solarized-dark&count_private=true&show_icons=true&hide=contribs&disable_animations=true" /> 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsouth&theme=solarized-dark&count_private=true&show_icons=true&layout=compact" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rsouth&theme=solarized-dark&count_private=true&show_icons=true&hide=contribs&disable_animations=true&hide_title=true" /> 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsouth&theme=solarized-dark&count_private=true&show_icons=true&layout=compact&hide_title=true" />
 </p>
 
 <!--
